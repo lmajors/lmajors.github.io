@@ -1,3 +1,3 @@
 # Contributing Test MD
 
-[ ] This is a checkbox?
+[x] This is a checkbox?
